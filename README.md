@@ -13,6 +13,10 @@ It is allowed to research on web and to use any frameworks.
 
 The endpoint to get the product list is available here: https://5f8df37c4c15c40016a1e46d.mockapi.io/api/v1/products
 
+## About the prototype
+
+![prototype](https://i.ibb.co/P6zmF1S/Screen-Shot-2020-10-19-at-19-50-28.png)
+
 ### Header/Top 
 
 It must contain false links that do not lead anywhere and do not close or change the home page.
