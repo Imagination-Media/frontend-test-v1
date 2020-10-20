@@ -3,7 +3,7 @@
 ![prototype](https://i.ibb.co/P6zmF1S/Screen-Shot-2020-10-19-at-19-50-28.png)
 
 A frontend test to test dev skills.
-The candidate must produce a catalog page from the figma (ignore the other pages): https://www.figma.com/file/uTmmvoFOeq3Gfe96Aa77f7/Front-end-Test?node-id=1%3A871
+The candidate must produce a **catalog page** from the figma (ignore the other pages): https://www.figma.com/file/uTmmvoFOeq3Gfe96Aa77f7/Front-end-Test?node-id=1%3A871
 
 Images can be extracted from the figma and used statically in the project. 
 
