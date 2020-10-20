@@ -1,4 +1,4 @@
-# Frontend Skill Test V1
+# Frontend skill test - V1
 
 ![prototype](https://i.ibb.co/P6zmF1S/Screen-Shot-2020-10-19-at-19-50-28.png)
 
