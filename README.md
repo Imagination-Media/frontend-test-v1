@@ -45,6 +45,6 @@ When clicking on the add to cart button the product must be added to the cart vi
 
 ### Optional (plus)
 
-* Pagination (is optional 
+* Pagination
 
-* The mobile version is optional 
+* The mobile version 
