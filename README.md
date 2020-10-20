@@ -43,6 +43,10 @@ They must be loaded from a mocked api or the api referenced
 
 When clicking on the add to cart button the product must be added to the cart virtually, in the header the product counter must be incremented 
 
+### Newsletter
+
+The endpoint to send the POST with the email is: https://5f8df37c4c15c40016a1e46d.mockapi.io/api/v1/subscription
+
 ### Optional (plus)
 
 * Pagination
