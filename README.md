@@ -13,6 +13,8 @@ It is allowed to research on web and to use any frameworks.
 
 The endpoint to get the product list is available here: https://5f8df37c4c15c40016a1e46d.mockapi.io/api/v1/products
 
+The candidate should fork this repo and use the git to delivery his work.
+
 ## Details about the test/prototype
 
 Full resource: https://www.figma.com/file/uTmmvoFOeq3Gfe96Aa77f7/Front-end-Test?node-id=1%3A871 
